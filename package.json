@@ -1,0 +1,1 @@
+{"name":"genesis-ingestor-poloniex-v2","version":"2.0.0-sf","private":true,"description":"Genesis POLONIEX_V2 Ingestor (SF-Grade v2.0.0-sf) — CEX","main":"src/bootstrap.ts","scripts":{"start":"ts-node src/bootstrap.ts"},"dependencies":{"@types/express":"^5.0.6","express":"^4.22.1","node-fetch":"^2.6.9"},"devDependencies":{"ts-node":"^10.9.2","typescript":"^5.4.5"}}
