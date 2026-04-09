@@ -1,6 +1,6 @@
 export const CONFIG = {
   EXCHANGE: "POLONIEX_V2" as const,
-  SOURCE: "poloniex-v2" as const,
+  SOURCE: "poloniex" as const,
   TYPE: "CEX" as const,
   CHAIN: "multi" as const,
   PORT: parseInt(process.env.PORT || "10491", 10),
